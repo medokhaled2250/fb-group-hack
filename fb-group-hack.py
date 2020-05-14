@@ -23,7 +23,7 @@ C = '\033[1;36m'
 # Restart ####################
 
 def restart_program():
-
+https://www.facebook.com/emam.ahmed.319452
    python = sys.executable
 
    os.execl(python, python, * sys.argv)
